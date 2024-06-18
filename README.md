@@ -1,4 +1,4 @@
- - 👋 Hi, my name is Erin McCarty. I'm a strong, independent mother of 2. I've jumped in headfirst to start learning how to code. I've got the full potential to succeed! 
+ - 👋 Hi, my name is Erin McCarty. I'm a strong, independent mother of 2. I've jumped in headfirst to learn coding. I've got the full potential to succeed! 
 - 👀 I’m interested in learning more about software engineering.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on different areas/ideas that affiliate with this career.
